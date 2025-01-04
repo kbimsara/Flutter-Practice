@@ -1,0 +1,9 @@
+name: Dart6_1
+description: A brief description of your package.
+version: 1.0.0
+
+dev_dependencies:
+  test: ^1.21.0
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'

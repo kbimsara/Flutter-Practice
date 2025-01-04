@@ -1,0 +1,9 @@
+name: Hello_Dart
+description: A brief description of your package.
+version: 1.0.0
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  http: ^1.2.2  # Include other dependencies as needed
